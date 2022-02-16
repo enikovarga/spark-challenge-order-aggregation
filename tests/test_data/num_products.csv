@@ -1,0 +1,5 @@
+customer_id,product_id,purchase_count
+C1,P01,1
+C1,P02,1
+C2,P01,2
+C2,P02,1

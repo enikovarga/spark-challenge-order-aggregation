@@ -1,0 +1,5 @@
+customer_id,loyalty_score,product_id,product_category,purchase_count
+C1,7,P01,house,1
+C1,7,P02,house,1
+C2,4,P01,house,2
+C2,4,P02,house,1

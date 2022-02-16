@@ -1,0 +1,3 @@
+{"customer_id": "C1", "basket": [{"product_id": "P01", "price": 200}, {"product_id": "P02", "price": 300}], "date_of_purchase": "2021-11-15 20:39:47.105894"}
+{"customer_id": "C2", "basket": [{"product_id": "P01", "price": 200}], "date_of_purchase": "2021-11-15 06:17:47.105894"}
+{"customer_id": "C2", "basket": [{"product_id": "P01", "price": 200}, {"product_id": "P02", "price": 300}], "date_of_purchase": "2021-11-16 07:33:47.105894"}

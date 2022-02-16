@@ -1,0 +1,8 @@
+venv
+input_data
+
+# Pycharm IDE
+.idea
+.DS_Store
+.pytest_cache
+*__pycache__*
